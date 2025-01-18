@@ -1,7 +1,0 @@
-#include <layouts/common/ortho_5x12/2x2u.dtsi>
-
-// Assigning suitable kscan and matrix transforms
-&ortho_5x12_lizard_layout {
-    transform = <&default_transform>;
-    kscan = <&kscan0>;
-};

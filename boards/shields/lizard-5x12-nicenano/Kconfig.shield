@@ -1,0 +1,3 @@
+# No whitespace after the comma or in your keyboard name!
+config SHIELD_lizard-5x12-nicenano
+    def_bool $(shields_list_contains,lizard-5x12-nicenano)
