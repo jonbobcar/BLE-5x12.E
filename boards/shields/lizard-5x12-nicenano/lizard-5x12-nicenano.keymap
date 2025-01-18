@@ -27,7 +27,7 @@
                 &kp TAB    &none    &none     &kp END   &none    &none    &none    &kp PG_UP &kp INS  &kp MINUS &kp EQUAL &kp F12
                 &kp CAPS   &none    &kp PSCRN &kp PG_DN &none    &none    &kp HOME &none     &kp UP   &kp LBKT  &kp RBKT  &kp BSLH
                 &kp LSHFT  &none    &none     &none     &none    &none    &none    &kp LEFT  &kp DOWN &kp RIGHT &none     &kp RSHFT
-                &kp LCTRL  &kp LGUI &kp LALT  &kp trans &mt ENTER LSHFT   &kp SPACE          &kp LEFT &kp UP    &kp DOWN  &kp RIGHT
+                &kp LCTRL  &kp LGUI &kp LALT  &trans    &mt ENTER LSHFT   &kp SPACE          &kp LEFT &kp UP    &kp DOWN  &kp RIGHT
             >;
         };
     };
