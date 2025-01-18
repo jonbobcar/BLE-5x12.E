@@ -29,6 +29,7 @@
                 &kp LSHFT  &none    &none     &none     &none    &none    &none    &kp LEFT  &kp DOWN &kp RIGHT &none     &kp RSHFT
                 &kp LCTRL  &kp LGUI &kp LALT  &trans    &mt ENTER LSHFT   &kp SPACE          &kp LEFT &kp UP    &kp DOWN  &kp RIGHT
             >;
+            };
         };
     };
 };
