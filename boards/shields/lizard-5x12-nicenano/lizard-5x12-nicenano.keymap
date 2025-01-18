@@ -17,6 +17,7 @@
                 &kp LSHFT  &kp Z    &kp X     &kp C    &kp V    &kp B    &kp N  &kp M    &kp COMMA  &kp DOT &kp FSLH  &kp RSHFT
                 &kp LCTRL  &kp LGUI &kp LALT  &mo 1    &mt LSHFT ENTER   &kp SPACE       &kp LEFT   &kp UP  &kp DOWN  &kp RIGHT
             >;
+        };
 
         fn_layer {
             display-name = "Function";
@@ -29,7 +30,6 @@
                 &kp LSHFT  &none    &none     &none     &none    &none    &none    &kp LEFT  &kp DOWN &kp RIGHT &none     &kp RSHFT
                 &kp LCTRL  &kp LGUI &kp LALT  &mo 1     &mt LSHFT ENTER   &kp SPACE          &kp LEFT &kp UP    &kp DOWN  &kp RIGHT
             >;
-            };
         };
     };
 };
