@@ -2,6 +2,6 @@ if SHIELD_lizard-5x12-nicenano
 
 # Name must be less than 16 characters long!
 config ZMK_KEYBOARD_NAME
-    default "ZMK lizard-5x12-nicenano"
+    default "lizard-5x12-nicenano"
 
 endif
