@@ -1,8 +1,8 @@
 file_format: "1"
-id: lizard-5x12-nicenano
+id: lizard
 name: Lizard 5x12 NiceNano
 type: shield
-url: https://github.com/jonbobcar/lizard-5x12-nicenano
+url: https://github.com/jonbobcar/lizard
 requires: nicenano
 features:
   - encoder

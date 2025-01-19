@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: lizard-5x12-nicenano
-  - board: nrf52840dongle_nrf52840
-    shield: lizard-5x12-nicenano_dongle
+    shield: lizard
+  # - board: nrf52840dongle_nrf52840
+  #   shield: lizard_dongle
