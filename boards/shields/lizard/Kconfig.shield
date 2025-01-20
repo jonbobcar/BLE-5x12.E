@@ -1,3 +1,6 @@
 # No whitespace after the comma or in your keyboard name!
 config SHIELD_lizard
     def_bool $(shields_list_contains,lizard)
+
+config SHIELD_lizard_dongle
+    def_bool $(shields_list_contains,lizard_dongle)
