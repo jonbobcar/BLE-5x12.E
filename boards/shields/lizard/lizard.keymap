@@ -36,7 +36,7 @@
             sensor-bindings = <&inc_dec_kp PG_UP PG_DN>;
         };
 
-        fn_layer {
+        bt_layer {
             display-name = "Function";
 
             bindings = <
