@@ -30,7 +30,7 @@
                 &kp TAB    &none    &none     &kp END   &none    &none    &none    &kp PG_UP &kp INS  &kp MINUS &kp EQUAL &kp F12
                 &kp CAPS   &none    &kp PSCRN &kp PG_DN &none    &none    &kp HOME &none     &kp UP   &kp LBKT  &kp RBKT  &kp BSLH
                 &kp LSHFT  &none    &none     &none     &none    &none    &none    &kp LEFT  &kp DOWN &kp RIGHT &none     &kp RSHFT
-                &kp mo2  &kp LGUI &kp LALT  &mo 1     &mt LSHFT ENTER   &kp SPACE          &kp LEFT &kp UP    &kp DOWN  &kp RIGHT
+                &mo2       &kp LGUI &kp LALT  &mo 1     &mt LSHFT ENTER   &kp SPACE          &kp LEFT &kp UP    &kp DOWN  &kp RIGHT
             >;
 
             sensor-bindings = <&inc_dec_kp PG_UP PG_DN>;
@@ -45,7 +45,7 @@
                 &none   &none     &none     &none     &none     &none     &none &none &none &none &none &none
                 &none   &none     &none     &none     &none     &none     &none &none &none &none &none &none
                 &none   &none     &none     &none     &none     &none     &none &none &none &none &none &none
-                &kp mo2 &none     &none     &mo 1     &none     &none                 &none &none &none &none
+                &mo2    &none     &none     &mo 1     &none     &none                 &none &none &none &none
             >;
 
             sensor-bindings = <&inc_dec_kp PG_UP PG_DN>;
