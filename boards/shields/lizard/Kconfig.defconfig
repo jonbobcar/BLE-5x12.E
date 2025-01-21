@@ -6,7 +6,7 @@ config ZMK_KEYBOARD_NAME
 
 endif
 
-if SHIELD_lizard_dongle
+if SHIELD_LIZARD_DONGLE
 
 # Max 16 characters in keyboard name
 config ZMK_KEYBOARD_NAME
