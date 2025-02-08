@@ -9,6 +9,6 @@ requires:
 features:
   - encoder
   - keys
-sibllings:
+siblings:
   - lizard_dongle
   - lizard
